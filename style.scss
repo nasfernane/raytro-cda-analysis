@@ -1,0 +1,32 @@
+// font
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+// reset
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+    font-weight: 400;
+    letter-spacing: 0.05rem;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h1 {
+        font-size: 5rem;
+        font-variant: small-caps;
+        padding: 8rem 0rem;
+    }
+}

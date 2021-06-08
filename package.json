@@ -1,0 +1,23 @@
+{
+    "name": "raytro-cda-analysis",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "scss": "node-sass style.scss style.css -w",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nasfernane/raytro-cda-analysis.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nasfernane/raytro-cda-analysis/issues"
+    },
+    "homepage": "https://github.com/nasfernane/raytro-cda-analysis#readme",
+    "dependencies": {
+        "node-sass": "^6.0.0"
+    }
+}
