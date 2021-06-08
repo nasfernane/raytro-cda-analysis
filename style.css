@@ -30,6 +30,7 @@ body {
     align-items: center;
     margin-bottom: 3rem; }
     body section h2 {
-      margin: 3rem; }
+      margin: 3rem;
+      font-size: 3rem; }
     body section img {
       max-width: 90%; }
