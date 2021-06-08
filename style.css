@@ -24,4 +24,6 @@ body {
     font-variant: small-caps;
     padding: 8rem 0rem; }
   body section {
-    width: 100%; }
+    max-width: 100%; }
+    body section img {
+      max-width: 90%; }
