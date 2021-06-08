@@ -23,10 +23,15 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100vw;
 
     h1 {
         font-size: 5rem;
         font-variant: small-caps;
         padding: 8rem 0rem;
+    }
+
+    section {
+        width: 100%;
     }
 }
